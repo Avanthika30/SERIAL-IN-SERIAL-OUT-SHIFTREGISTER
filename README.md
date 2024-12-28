@@ -25,10 +25,10 @@ Each D flip-flop in the circuit has a Data (D) input, a Clock (CLK) input, and a
 
 **Procedure**
 ```
-Understand JK Flip-Flop Functionality
+Understand the Functionality
 Open Quartus
-Launch Quartus and create a new project named JKFlipFlop.
- Add a Verilog file to the project.
+Launch Quartus and create a new project.
+Add a Verilog file to the project.
 Write Verilog Code imulate the Design Open ModelSim or Quartus Waveform Viewer.
 Observe the output Q and ensure it matches the expected behavior.
 Validate the Results. 
